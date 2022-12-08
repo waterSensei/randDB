@@ -24,11 +24,12 @@ def getaddress():
     # Initialise geocode
     map_client = googlemaps.Client(API_KEY)
     response = map_client.geocode(coordinate)
-    print(coordinate)
 
     # Only reture the address if the location type is 'ROOFTOP'
     if response[0]['geometry']['location_type'] == 'ROOFTOP':
-        print(response[0]['geometry']['location_type'])
+        print(response[0])
         return {'Address': response[0]['formatted_address']}
     else:
         getaddress()
+
+getaddress()
