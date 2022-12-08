@@ -1,0 +1,2 @@
+FirstName,LastName,Mobile,Email,Address,Sales,Installer,InstallationDate,SupplyPhase,InvModel,InvBrand,InvSize,InvPhase,BatModel,BatSize,Backup,PanelBrand,PanelSize,PanelNum,SysSize,OptBrand,OptModel,OptNum,Smartmeter
+Jose,Bartels,0482231712,josebartels@gmail.com,"912 Cotter Rd, Stromlo ACT 2611, Australia",Jeffrey,Andrew,02/01/2022,1,5KTL-L1,Huawei,5,1,LUNA2000-10-S0,10,No,Trina,415,16.0,6640.0,NA,NA,NA,True
