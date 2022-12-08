@@ -1,5 +1,7 @@
 from random import randrange
+from pprint import pprint
 import googlemaps
+from collections import defaultdict
 
 # GOOGLE API KEY
 API_KEY = 'AIzaSyDAFjc7-YR7r4nL7w6DT67yTYMlQSIIYqM'
@@ -24,12 +26,9 @@ def getaddress():
     # Initialise geocode
     map_client = googlemaps.Client(API_KEY)
     response = map_client.geocode(coordinate)
-
+    # pprint(response)
     # Only reture the address if the location type is 'ROOFTOP'
-    if response[0]['geometry']['location_type'] == 'ROOFTOP':
-        print(response[0])
+    if response[0]['geometry']['location_type'] == 'ROOFTOP' and response[0]['types'][0] == 'premise':
         return {'Address': response[0]['formatted_address']}
     else:
-        getaddress()
-
-getaddress()
+        return getaddress()

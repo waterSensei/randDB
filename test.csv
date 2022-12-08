@@ -1,2 +1,11 @@
 FirstName,LastName,Mobile,Email,Address,Sales,Installer,InstallationDate,SupplyPhase,InvModel,InvBrand,InvSize,InvPhase,BatModel,BatSize,Backup,PanelBrand,PanelSize,PanelNum,SysSize,OptBrand,OptModel,OptNum,Smartmeter
-Jose,Bartels,0482231712,josebartels@gmail.com,"912 Cotter Rd, Stromlo ACT 2611, Australia",Jeffrey,Andrew,02/01/2022,1,5KTL-L1,Huawei,5,1,LUNA2000-10-S0,10,No,Trina,415,16.0,6640.0,NA,NA,NA,True
+Eva,Stocker,0494217110,evastocker@gmail.com,"291 Antill St, Watson ACT 2602, Australia",William,Andrew,01/01/2022,1,SE6000H,SolarEdge,6,1,BAT-10K1PS0B-01,9.7,No,Trina,470,18.0,8460.0,SolarEdge,S500,18.0,True
+William,Rogers,043547001,williamrogers@rogers.com,"26 Mugga Way, Red Hill ACT 2603, Australia",Joe,Angel,02/01/2022,1,6KTL-L1,Huawei,6,1,NA,NA,No,SunPower,390,18.0,7020.0,Huawei,SUN2000-450W-P,18,False
+Hazel,Miller,0475951652,hazelmiller@hotmail.com,"146 Ross Smith Cres, Scullin ACT 2614, Australia",Jeffrey,Marvin,02/01/2022,1,SE6000H,SolarEdge,6,1,BAT-10K1PS0B-01,9.7,Yes,Jinko,415,21.0,8715.0,SolarEdge,S440,21.0,True
+Jeff,Jones,0450069672,jeffjones@gmail.com,"36 Narryer Cl, Palmerston ACT 2913, Australia",William,Andrew,02/01/2022,1,SH6.0RS,Sungrow,6,1,SBR096,9.6,Yes,Risen,415,19.0,7885.0,NA,NA,NA,True
+Andrew,Auerswald,0430467859,andrewauerswald@yahoo.com,"31 Jarrah St, O'Connor ACT 2602, Australia",Joe,Angel,02/01/2022,3,SMILE5-INV,AlphaESS,5,1,SMILE-BAT-10.1P,10.1,No,Jinko,370,18.0,6660.0,NA,NA,NA,False
+Stephanie,Castilleja,0449489480,stephaniecastilleja@yahoo.com,"32 Muriel Stewart Cct, Bonner ACT 2914, Australia",Timothy,Andrew,02/01/2022,3,SH5.0RT,Sungrow,5,3,SBR096,9.6,Yes,Trina,390,18.0,7020.0,NA,NA,NA,True
+Larry,Mcintosh,0433652137,larrymcintosh@gmail.com,"57 Bosworth Cct, Kambah ACT 2902, Australia",Jeffrey,Marvin,03/01/2022,1,SMILE-G3-S5,AlphaESS,5,1,SMILE-G3-BAT-10.1P,10.1,Yes,Trina,415,16.0,6640.0,NA,NA,NA,True
+Brian,Arons,0476853059,brianarons@arons.com,"4 Vickery St, Cook ACT 2614, Australia",William,Andrew,03/01/2022,1,SH6.0RS,Sungrow,6,1,SBR096,9.6,Yes,SunPower,470,17.0,7990.0,NA,NA,NA,True
+Russell,Ford,0464382159,russellford@yahoo.com,"89 Fremantle Dr, Stirling ACT 2611, Australia",Jeffrey,Marvin,03/01/2022,3,SMILE-G3-S5,AlphaESS,5,1,SMILE-G3-BAT-10.1P,10.1,No,Risen,415,18.0,7470.0,NA,NA,NA,False
+Mark,Edgecomb,0460462573,markedgecomb@gmail.com,"14 Millicer Pl, Dunlop ACT 2615, Australia",William,Andrew,04/01/2022,1,6KTL-L1,Huawei,6,1,LUNA2000-10-S0,10,Yes,Trina,470,19.0,8930.0,NA,NA,NA,True
