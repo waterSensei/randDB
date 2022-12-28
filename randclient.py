@@ -10,7 +10,7 @@ def randcli():
     """
     fname = names.get_first_name()
     lname = names.get_last_name()
-    phone = '04'+str(randrange(100000000))
+    phone = '04'+str(randrange(10000000, 100000000))
     # Random email domain (gmail, hotmail, yahool or client's last name)
     email = fname.lower()+lname.lower() + \
         choice(['@gmail.com', '@hotmail.com',

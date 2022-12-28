@@ -1,7 +1,5 @@
 from random import randrange
-from pprint import pprint
 import googlemaps
-from collections import defaultdict
 
 # GOOGLE API KEY
 API_KEY = 'AIzaSyDAFjc7-YR7r4nL7w6DT67yTYMlQSIIYqM'
