@@ -2,7 +2,7 @@ from random import randrange
 import googlemaps
 
 # GOOGLE API KEY
-API_KEY = 'AIzaSyDAFjc7-YR7r4nL7w6DT67yTYMlQSIIYqM'
+API_KEY = 'YOUR API KEY'
 # Canberra coordinate range
 lo_range = [149.001436, 149.187774]
 la_range = [-35.475038, -35.151304]
